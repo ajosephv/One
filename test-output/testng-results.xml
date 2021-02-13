@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35169" started-at="2021-02-09T22:12:00 IST" finished-at="2021-02-09T22:12:35 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35169" started-at="2021-02-09T22:12:00 IST" finished-at="2021-02-09T22:12:35 IST">
+      <class name="one.globalenglish.testCases.TC_SystemCheck_010">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_SystemCheck_010@1b68ddbd]" name="setup" is-config="true" duration-ms="12368" started-at="2021-02-09T22:12:00 IST" finished-at="2021-02-09T22:12:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SystemCheckValidation()[pri:0, instance:one.globalenglish.testCases.TC_SystemCheck_010@1b68ddbd]" name="SystemCheckValidation" duration-ms="21543" started-at="2021-02-09T22:12:13 IST" finished-at="2021-02-09T22:12:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SystemCheckValidation -->
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_SystemCheck_010@1b68ddbd]" name="close" is-config="true" duration-ms="881" started-at="2021-02-09T22:12:34 IST" finished-at="2021-02-09T22:12:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- one.globalenglish.testCases.TC_SystemCheck_010 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
