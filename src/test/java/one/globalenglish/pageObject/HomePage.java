@@ -33,6 +33,10 @@ public class HomePage extends BaseClass {
 	@CacheLookup
 	WebElement Work;
 	
+	@FindBy(xpath="//*[@id=\"dropdown_2\"]/ul/li[5]/a")
+	@CacheLookup
+	WebElement GCTutorial;
+	
 	@FindBy(id="dropdown_1")
 	@CacheLookup
 	WebElement Study;
@@ -267,5 +271,15 @@ public class HomePage extends BaseClass {
 		//Logger.info("Working links are "+ workingLinks);
 		//driver.close();
 		
+	}
+	
+	public void GCtutorial()
+	{
+		String a=GCTutorial.getText();
+		if(a.equals("Global Community Tutorials"))
+		{
+			Assert.assertTrue(true);
+		}
+		  GCTutorial.click();
 	}
 }

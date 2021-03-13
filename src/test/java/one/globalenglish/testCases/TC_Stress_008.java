@@ -22,9 +22,9 @@ public class TC_Stress_008 extends BaseClass{
 		lp.login();
 		hp.study();
 		hp.stress();
-		//sp.clicklinks2();
+		sp.clicklinks2();
 		//sp.clicklinks();
-		sp.window();
+		//sp.window();
 		
 	}
 }

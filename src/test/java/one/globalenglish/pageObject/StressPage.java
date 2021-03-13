@@ -41,10 +41,6 @@ public class StressPage extends BaseClass {
 	@CacheLookup
 	WebElement count;
 	
-	
-	
-	
-	
 	//this is to check the network tab and get the response code status value(200 is fine.. 400 or more than 400 is blockers)
 	public void clicklinks2() throws MalformedURLException, IOException
 	{
@@ -53,7 +49,6 @@ public class StressPage extends BaseClass {
 		{
 			String url=link.getAttribute("href");
 			HttpURLConnection conn=(HttpURLConnection)new URL(url).openConnection();
-			
 			conn.setRequestMethod("HEAD");
 			conn.connect();
 			int resp=conn.getResponseCode();
@@ -61,8 +56,7 @@ public class StressPage extends BaseClass {
 					if(resp>400)
 					{
 						Logger.info("the link with"+ link.getText()+ "is broken with response code" +resp);
-						Assert.assertTrue(false);
-						
+						Assert.assertTrue(false);			
 					}
 		}
 	}
@@ -97,12 +91,7 @@ public class StressPage extends BaseClass {
 		{
 			String clickonlink=Keys.chord(Keys.CONTROL,Keys.ENTER);
 			row1.findElements(By.tagName("a")).get(i).sendKeys(clickonlink);
-			Logger.info(driver.getTitle());
-			
-			
+			Logger.info(driver.getTitle());	
 		}
 	}
-	
-	
-
 }

@@ -1616,3 +1616,193 @@ Consonants: ? (think)
 2021-02-13 12:29:33,876 [main] INFO Edge Login - false heard radio button is not selected hence passed
 2021-02-13 12:29:34,083 [main] INFO Edge Login - result capturedYour audio is set up.
 2021-02-13 12:29:34,150 [main] INFO Edge Login - navigated to next page
+2021-03-13 12:00:53,179 [main] INFO Edge Login - Chile is available
+2021-03-13 12:35:23,749 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:06:18,889 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:06:24,950 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 13:12:55,628 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:13:02,635 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 13:13:02,743 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:02,923 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:03,062 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:03,202 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:03,343 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:03,494 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:03,750 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:03,970 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:04,179 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:04,745 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:04,956 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:05,155 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:05,354 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:05,722 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:05,926 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:06,174 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:06,372 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:06,657 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:06,884 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:07,169 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:13:07,427 [main] INFO Edge Login - GlobalEnglish - Listening and Speaking/131346
+2021-03-13 13:16:28,116 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:16:34,326 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 13:16:38,427 [main] INFO Edge Login - GlobalEnglish - Global Community Tutorials
+2021-03-13 13:20:24,060 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:20:32,675 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 13:20:36,905 [main] INFO Edge Login - GlobalEnglish - Global Community Tutorials
+2021-03-13 13:21:30,218 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:21:36,667 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 13:21:41,041 [main] INFO Edge Login - GlobalEnglish - Global Community Tutorials
+2021-03-13 13:22:56,558 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:23:02,405 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 13:24:46,518 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 13:24:52,630 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 13:24:52,672 [main] INFO Edge Login - stale element reference: element is not attached to the page document
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '441SN13', ip: '192.168.29.207', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\VICTOR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51181}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 93fdca986c525596a6a8690db5fb7644
+2021-03-13 13:24:56,900 [main] INFO Edge Login - GlobalEnglish - Global Community Tutorials
+2021-03-13 13:24:56,947 [main] INFO Edge Login - stale element reference: element is not attached to the page document
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '441SN13', ip: '192.168.29.207', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\VICTOR~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51181}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 93fdca986c525596a6a8690db5fb7644
+2021-03-13 17:57:45,794 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 17:57:52,871 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 17:58:17,348 [main] INFO Edge Login - the link withSyllables and Stressis success with response code200
+2021-03-13 17:58:17,822 [main] INFO Edge Login - the link withUnstressed Syllablesis success with response code200
+2021-03-13 17:58:18,331 [main] INFO Edge Login - the link withPaired Nouns and Verbsis success with response code200
+2021-03-13 17:58:18,821 [main] INFO Edge Login - the link withNumbersis success with response code200
+2021-03-13 17:58:19,276 [main] INFO Edge Login - the link withCompound Nounsis success with response code200
+2021-03-13 17:58:19,767 [main] INFO Edge Login - the link withSuffixesis success with response code200
+2021-03-13 17:58:20,230 [main] INFO Edge Login - the link withStressed Wordsis success with response code200
+2021-03-13 17:58:20,714 [main] INFO Edge Login - the link withEmphasizing Key Wordsis success with response code200
+2021-03-13 17:58:21,162 [main] INFO Edge Login - the link withUnstressed Wordsis success with response code200
+2021-03-13 17:58:22,072 [main] INFO Edge Login - the link withDisappearing Soundsis success with response code200
+2021-03-13 17:58:22,526 [main] INFO Edge Login - the link withReduced Speech: Common Expressionsis success with response code200
+2021-03-13 17:58:22,979 [main] INFO Edge Login - the link withReduced Speech: Contractionsis success with response code200
+2021-03-13 17:58:23,427 [main] INFO Edge Login - the link withReduced Speech: Degrees of Informalityis success with response code200
+2021-03-13 17:58:23,848 [main] INFO Edge Login - the link withQuestions and Statementsis success with response code200
+2021-03-13 17:58:24,283 [main] INFO Edge Login - the link withClarifying and Confirmingis success with response code200
+2021-03-13 17:58:24,727 [main] INFO Edge Login - the link withGrouping Related Ideasis success with response code200
+2021-03-13 17:58:25,190 [main] INFO Edge Login - the link withListsis success with response code200
+2021-03-13 17:58:25,653 [main] INFO Edge Login - the link withConsonant + Same Consonantis success with response code200
+2021-03-13 17:58:26,089 [main] INFO Edge Login - the link withConsonant + Vowelis success with response code200
+2021-03-13 17:58:26,557 [main] INFO Edge Login - the link withConsonant + /y/is success with response code200
+2021-03-13 17:58:27,034 [main] INFO Edge Login - the link withVowel + Vowelis success with response code200
+2021-03-13 18:09:48,594 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 18:10:05,167 [main] INFO Edge Login - total links coubt is: 0
+2021-03-13 18:10:27,359 [main] INFO Edge Login - the link withSyllables and Stressis success with response code200
+2021-03-13 18:10:27,771 [main] INFO Edge Login - the link withUnstressed Syllablesis success with response code200
+2021-03-13 18:10:28,210 [main] INFO Edge Login - the link withPaired Nouns and Verbsis success with response code200
+2021-03-13 18:10:28,665 [main] INFO Edge Login - the link withNumbersis success with response code200
+2021-03-13 18:10:29,136 [main] INFO Edge Login - the link withCompound Nounsis success with response code200
+2021-03-13 18:10:29,555 [main] INFO Edge Login - the link withSuffixesis success with response code200
+2021-03-13 18:10:29,995 [main] INFO Edge Login - the link withStressed Wordsis success with response code200
+2021-03-13 18:10:30,434 [main] INFO Edge Login - the link withEmphasizing Key Wordsis success with response code200
+2021-03-13 18:10:30,890 [main] INFO Edge Login - the link withUnstressed Wordsis success with response code200
+2021-03-13 18:10:31,337 [main] INFO Edge Login - the link withDisappearing Soundsis success with response code200
+2021-03-13 18:10:31,767 [main] INFO Edge Login - the link withReduced Speech: Common Expressionsis success with response code200
+2021-03-13 18:10:32,193 [main] INFO Edge Login - the link withReduced Speech: Contractionsis success with response code200
+2021-03-13 18:10:32,628 [main] INFO Edge Login - the link withReduced Speech: Degrees of Informalityis success with response code200
+2021-03-13 18:10:33,052 [main] INFO Edge Login - the link withQuestions and Statementsis success with response code200
+2021-03-13 18:10:33,481 [main] INFO Edge Login - the link withClarifying and Confirmingis success with response code200
+2021-03-13 18:10:33,961 [main] INFO Edge Login - the link withGrouping Related Ideasis success with response code200
+2021-03-13 18:10:34,395 [main] INFO Edge Login - the link withListsis success with response code200
+2021-03-13 18:10:34,814 [main] INFO Edge Login - the link withConsonant + Same Consonantis success with response code200
+2021-03-13 18:10:35,247 [main] INFO Edge Login - the link withConsonant + Vowelis success with response code200
+2021-03-13 18:10:35,672 [main] INFO Edge Login - the link withConsonant + /y/is success with response code200
+2021-03-13 18:10:36,116 [main] INFO Edge Login - the link withVowel + Vowelis success with response code200
+2021-03-13 18:35:15,283 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 18:35:23,172 [main] INFO Edge Login - the :Dialects of English: Vowel Differenceshas a success message with value 200
+2021-03-13 18:35:23,674 [main] INFO Edge Login - the :Syllable Stresshas a success message with value 200
+2021-03-13 18:35:24,136 [main] INFO Edge Login - the :Sales Support Englishhas a success message with value 200
+2021-03-13 18:35:24,594 [main] INFO Edge Login - the :Technology News on the Radiohas a success message with value 200
+2021-03-13 18:35:25,052 [main] INFO Edge Login - the :Elevator Pitch - Making a Proposalhas a success message with value 200
+2021-03-13 18:35:25,518 [main] INFO Edge Login - the :Technology Rockstars: Amazon.comhas a success message with value 200
+2021-03-13 18:35:25,985 [main] INFO Edge Login - the :English Vowels: The Laughing Cathas a success message with value 200
+2021-03-13 18:35:26,446 [main] INFO Edge Login - the :Too Busy to Teachhas a success message with value 200
+2021-03-13 18:35:26,914 [main] INFO Edge Login - the :Conference Call Basicshas a success message with value 200
+2021-03-13 18:35:27,390 [main] INFO Edge Login - the :English Consonants: The Singing Kinghas a success message with value 200
+2021-03-13 18:35:27,845 [main] INFO Edge Login - the :What Did I Just Say?has a success message with value 200
+2021-03-13 18:35:28,316 [main] INFO Edge Login - the :Successful Presentation Openingshas a success message with value 200
+2021-03-13 18:35:28,790 [main] INFO Edge Login - the :What Happened on the Conference Call?has a success message with value 200
+2021-03-13 18:35:29,214 [main] INFO Edge Login - the :A Long Day at the Officehas a success message with value 200
+2021-03-13 18:35:29,649 [main] INFO Edge Login - the :Time to Test Your Listening Skillshas a success message with value 200
+2021-03-13 18:35:30,128 [main] INFO Edge Login - the :Do You Hear What I Am Saying?has a success message with value 200
+2021-03-13 18:35:30,623 [main] INFO Edge Login - the :English Vowels: The Funny Monkey's Double Lunchhas a success message with value 200
+2021-03-13 18:35:31,110 [main] INFO Edge Login - the :English Vowels: The Cool Bull and the Silly Sheephas a success message with value 200
+2021-03-13 18:35:31,583 [main] INFO Edge Login - the :Pronunciation Tipshas a success message with value 200
+2021-03-13 18:35:32,112 [main] INFO Edge Login - the :Listening Problems with Numbershas a success message with value 200
+2021-03-13 18:35:32,172 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 18:39:31,492 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 18:39:41,257 [main] INFO Edge Login - the :Dialects of English: Vowel Differenceshas a success message with value 200
+2021-03-13 18:39:41,718 [main] INFO Edge Login - the :Syllable Stresshas a success message with value 200
+2021-03-13 18:39:42,163 [main] INFO Edge Login - the :Sales Support Englishhas a success message with value 200
+2021-03-13 18:39:42,619 [main] INFO Edge Login - the :Technology News on the Radiohas a success message with value 200
+2021-03-13 18:39:43,052 [main] INFO Edge Login - the :Elevator Pitch - Making a Proposalhas a success message with value 200
+2021-03-13 18:39:43,510 [main] INFO Edge Login - the :Technology Rockstars: Amazon.comhas a success message with value 200
+2021-03-13 18:39:43,984 [main] INFO Edge Login - the :English Vowels: The Laughing Cathas a success message with value 200
+2021-03-13 18:39:44,423 [main] INFO Edge Login - the :Too Busy to Teachhas a success message with value 200
+2021-03-13 18:39:44,975 [main] INFO Edge Login - the :Conference Call Basicshas a success message with value 200
+2021-03-13 18:39:45,428 [main] INFO Edge Login - the :English Consonants: The Singing Kinghas a success message with value 200
+2021-03-13 18:39:45,875 [main] INFO Edge Login - the :What Did I Just Say?has a success message with value 200
+2021-03-13 18:39:46,320 [main] INFO Edge Login - the :Successful Presentation Openingshas a success message with value 200
+2021-03-13 18:39:46,801 [main] INFO Edge Login - the :What Happened on the Conference Call?has a success message with value 200
+2021-03-13 18:39:47,251 [main] INFO Edge Login - the :A Long Day at the Officehas a success message with value 200
+2021-03-13 18:39:47,721 [main] INFO Edge Login - the :Time to Test Your Listening Skillshas a success message with value 200
+2021-03-13 18:39:48,152 [main] INFO Edge Login - the :Do You Hear What I Am Saying?has a success message with value 200
+2021-03-13 18:39:48,604 [main] INFO Edge Login - the :English Vowels: The Funny Monkey's Double Lunchhas a success message with value 200
+2021-03-13 18:39:49,030 [main] INFO Edge Login - the :English Vowels: The Cool Bull and the Silly Sheephas a success message with value 200
+2021-03-13 18:39:49,446 [main] INFO Edge Login - the :Pronunciation Tipshas a success message with value 200
+2021-03-13 18:39:49,888 [main] INFO Edge Login - the :Listening Problems with Numbershas a success message with value 200
+2021-03-13 18:39:49,920 [main] INFO Edge Login - total links coubt is: 21
+2021-03-13 18:44:01,230 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 18:44:08,337 [main] INFO Edge Login - the :Dialects of English: Vowel Differenceshas a success message with value 200
+2021-03-13 18:44:08,825 [main] INFO Edge Login - the :Syllable Stresshas a success message with value 200
+2021-03-13 18:44:09,272 [main] INFO Edge Login - the :Sales Support Englishhas a success message with value 200
+2021-03-13 18:44:09,737 [main] INFO Edge Login - the :Technology News on the Radiohas a success message with value 200
+2021-03-13 18:44:10,209 [main] INFO Edge Login - the :Elevator Pitch - Making a Proposalhas a success message with value 200
+2021-03-13 18:44:10,662 [main] INFO Edge Login - the :Technology Rockstars: Amazon.comhas a success message with value 200
+2021-03-13 18:44:11,131 [main] INFO Edge Login - the :English Vowels: The Laughing Cathas a success message with value 200
+2021-03-13 18:44:11,588 [main] INFO Edge Login - the :Too Busy to Teachhas a success message with value 200
+2021-03-13 18:44:12,032 [main] INFO Edge Login - the :Conference Call Basicshas a success message with value 200
+2021-03-13 18:44:12,499 [main] INFO Edge Login - the :English Consonants: The Singing Kinghas a success message with value 200
+2021-03-13 18:44:12,951 [main] INFO Edge Login - the :What Did I Just Say?has a success message with value 200
+2021-03-13 18:44:13,424 [main] INFO Edge Login - the :Successful Presentation Openingshas a success message with value 200
+2021-03-13 18:44:13,870 [main] INFO Edge Login - the :What Happened on the Conference Call?has a success message with value 200
+2021-03-13 18:44:14,330 [main] INFO Edge Login - the :A Long Day at the Officehas a success message with value 200
+2021-03-13 18:44:14,772 [main] INFO Edge Login - the :Time to Test Your Listening Skillshas a success message with value 200
+2021-03-13 18:44:15,219 [main] INFO Edge Login - the :Do You Hear What I Am Saying?has a success message with value 200
+2021-03-13 18:44:15,681 [main] INFO Edge Login - the :English Vowels: The Funny Monkey's Double Lunchhas a success message with value 200
+2021-03-13 18:44:16,154 [main] INFO Edge Login - the :English Vowels: The Cool Bull and the Silly Sheephas a success message with value 200
+2021-03-13 18:44:16,607 [main] INFO Edge Login - the :Pronunciation Tipshas a success message with value 200
+2021-03-13 18:44:17,058 [main] INFO Edge Login - the :Listening Problems with Numbershas a success message with value 200
+2021-03-13 18:45:24,532 [main] INFO Edge Login - Global Community Tutorials
+2021-03-13 18:45:31,427 [main] INFO Edge Login - the :Dialects of English: Vowel Differenceshas a success message with value 200
+2021-03-13 18:45:31,835 [main] INFO Edge Login - the :Syllable Stresshas a success message with value 200
+2021-03-13 18:45:32,256 [main] INFO Edge Login - the :Sales Support Englishhas a success message with value 200
+2021-03-13 18:45:32,681 [main] INFO Edge Login - the :Technology News on the Radiohas a success message with value 200
+2021-03-13 18:45:33,103 [main] INFO Edge Login - the :Elevator Pitch - Making a Proposalhas a success message with value 200
+2021-03-13 18:45:33,641 [main] INFO Edge Login - the :Technology Rockstars: Amazon.comhas a success message with value 200
+2021-03-13 18:45:34,078 [main] INFO Edge Login - the :English Vowels: The Laughing Cathas a success message with value 200
+2021-03-13 18:45:34,503 [main] INFO Edge Login - the :Too Busy to Teachhas a success message with value 200
+2021-03-13 18:45:34,959 [main] INFO Edge Login - the :Conference Call Basicshas a success message with value 200
+2021-03-13 18:45:35,390 [main] INFO Edge Login - the :English Consonants: The Singing Kinghas a success message with value 200
+2021-03-13 18:45:35,823 [main] INFO Edge Login - the :What Did I Just Say?has a success message with value 200
+2021-03-13 18:45:36,257 [main] INFO Edge Login - the :Successful Presentation Openingshas a success message with value 200
+2021-03-13 18:45:36,691 [main] INFO Edge Login - the :What Happened on the Conference Call?has a success message with value 200
+2021-03-13 18:45:37,111 [main] INFO Edge Login - the :A Long Day at the Officehas a success message with value 200
+2021-03-13 18:45:37,537 [main] INFO Edge Login - the :Time to Test Your Listening Skillshas a success message with value 200
+2021-03-13 18:45:37,963 [main] INFO Edge Login - the :Do You Hear What I Am Saying?has a success message with value 200
+2021-03-13 18:45:38,463 [main] INFO Edge Login - the :English Vowels: The Funny Monkey's Double Lunchhas a success message with value 200
+2021-03-13 18:45:38,894 [main] INFO Edge Login - the :English Vowels: The Cool Bull and the Silly Sheephas a success message with value 200
+2021-03-13 18:45:39,306 [main] INFO Edge Login - the :Pronunciation Tipshas a success message with value 200
+2021-03-13 18:45:39,756 [main] INFO Edge Login - the :Listening Problems with Numbershas a success message with value 200
+2021-03-13 18:45:39,814 [main] INFO Edge Login - total links coubt is: 21

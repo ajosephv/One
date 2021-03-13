@@ -41,8 +41,13 @@ public class AccentPage extends BaseClass {
 	
 	public void region()
 	{
+		try {
 		Select getregin=new Select(Region);
 		getregin.selectByVisibleText("South America");
+		}
+		catch(Exception e) {
+			Logger.info(e.getMessage());
+		}
 		
 	}
 	
@@ -60,6 +65,7 @@ public class AccentPage extends BaseClass {
 	
 	public void getaccent() throws IOException
 	{
+		try {
 		String a=accentTitle.getText();
 		if(a.equals("Chile"))
 		{
@@ -72,6 +78,10 @@ public class AccentPage extends BaseClass {
 			takescreenshot(driver,"accent");
 			Assert.assertTrue(false);
 	
+		}
+		}
+		catch(Exception e) {
+			Logger.info(e.getMessage());
 		}
 	}
 	

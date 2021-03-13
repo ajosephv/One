@@ -9,12 +9,15 @@
   <parameter name="browser" value="chrome" />
     <classes>
   
-      
-    <class name="one.globalenglish.testCases.TC_Accent_003"/>
+      <class name="one.globalenglish.testCases.TC_Accent_003"/>
     <class name="one.globalenglish.testCases.TC_Culture_004"/>
     <class name="one.globalenglish.testCases.TC_EmailTemplate_005"/>
       <class name="one.globalenglish.testCases.TC_NewsFeed_006"/>
       <class name="one.globalenglish.testCases.TC_SystemCheck_010"/>
+    <class name="one.globalenglish.testCases.TC_GCTutorial_012"/>
+   
+    
+    
      
   
       

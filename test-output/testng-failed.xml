@@ -7,21 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="one.globalenglish.testCases.TC_NewsFeed_006">
+      <class name="one.globalenglish.testCases.TC_GCTutorial_012">
         <methods>
-          <include name="NewsFeedValidation3"/>
-          <include name="NewsFeedValidation2"/>
+          <include name="GCTutorial"/>
           <include name="close"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- one.globalenglish.testCases.TC_NewsFeed_006 -->
-      <class name="one.globalenglish.testCases.TC_LoginTestDDT_002">
-        <methods>
-          <include name="close"/>
-          <include name="login" invocation-numbers="2 3"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- one.globalenglish.testCases.TC_LoginTestDDT_002 -->
+      </class> <!-- one.globalenglish.testCases.TC_GCTutorial_012 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
