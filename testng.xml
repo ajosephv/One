@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
 <suite name="Suite">
 
 <listeners>
@@ -15,7 +17,7 @@
       <class name="one.globalenglish.testCases.TC_NewsFeed_006"/>
       <class name="one.globalenglish.testCases.TC_SystemCheck_010"/>
     <class name="one.globalenglish.testCases.TC_GCTutorial_012"/>
-   
+    
     
     
      

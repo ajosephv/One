@@ -1806,3 +1806,6 @@ Session ID: 93fdca986c525596a6a8690db5fb7644
 2021-03-13 18:45:39,306 - Edge Login -INFO - the :Pronunciation Tipshas a success message with value 200
 2021-03-13 18:45:39,756 - Edge Login -INFO - the :Listening Problems with Numbershas a success message with value 200
 2021-03-13 18:45:39,814 - Edge Login -INFO - total links coubt is: 21
+2021-03-18 22:03:21,475 - Edge Login -INFO - Chile is available
+2021-03-18 22:04:56,767 - Edge Login -INFO - true Audio is enabled
+2021-03-18 22:04:56,822 - Edge Login -INFO - false heard radio button is not selected hence passed

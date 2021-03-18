@@ -32,10 +32,12 @@ public class ProgressPage extends BaseClass {
 		
 		int cnt=link.findElements(By.tagName("a")).size();
 		Logger.info("total links count is: "+ cnt);
+		
 		for(int i=0;i<cnt;i++)
 		{
 			String click=Keys.chord(Keys.CONTROL,Keys.ENTER);
 			link.findElements(By.tagName("a")).get(i).sendKeys(click);
+			
 			
 			
 			
