@@ -16,14 +16,16 @@ public class TC_SystemCheck_010 extends BaseClass {
 	{
 		LoginPage lp=new LoginPage(driver);
 		HomePage hp=new HomePage(driver);
-		SystemCheckPage scp=new SystemCheckPage(driver);
+		SystemCheckPage sct=new SystemCheckPage(driver);
 		
 		lp.setusername(username);
 		lp.setpassword(password);
 		lp.login();
 		hp.Burger();
 		hp.SystemCheck();
-		scp.Audiovalidation();
+		sct.Audiovalidation();
+		
+		
 		
 	}
 	
