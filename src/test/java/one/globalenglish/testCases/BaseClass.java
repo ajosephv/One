@@ -48,6 +48,7 @@ public class BaseClass {
 	{
 		Logger = Logger.getLogger("Edge Login");
 		//Logger Logger=LogManager.getLogger(Base.class.getName());
+	
 		PropertyConfigurator.configure("log4j.properties");
 		   
 		   if(br.equals("chrome"))
