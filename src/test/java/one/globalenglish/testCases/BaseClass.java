@@ -80,6 +80,7 @@ public class BaseClass {
 		   b.lang();
 	}
 	
+	//this is after class
 	@AfterClass
 	public void close()
 	{
