@@ -1,4 +1,5 @@
 one\globalenglish\pageObject\NewsFeedPage.class
+one\globalenglish\testCases\TC_GCTutorial_012.class
 one\globalenglish\pageObject\AccentPage.class
 one\globalenglish\testCases\TC_Stress_008.class
 one\globalenglish\pageObject\SystemCheckPage.class
@@ -18,7 +19,9 @@ one\globalenglish\testCases\TC_Accent_003.class
 one\globalenglish\testCases\TC_LoginTest_001.class
 one\globalenglish\utilities\ReadConfig.class
 one\globalenglish\utilities\XLUtils.class
+one\globalenglish\utilities\Readnew.class
 one\globalenglish\pageObject\HomePage.class
+one\globalenglish\pageObject\GctutorialPage.class
 one\globalenglish\pageObject\LoginPage.class
 one\globalenglish\testCases\TC_Culture_004.class
 one\globalenglish\testCases\TC_Profile_007.class

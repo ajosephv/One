@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="155903" started-at="2021-03-21T23:18:54 IST" finished-at="2021-03-21T23:21:30 IST">
+  <suite name="Suite" duration-ms="313594" started-at="2021-06-06T21:15:11 IST" finished-at="2021-06-06T21:20:25 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="155903" started-at="2021-03-21T23:18:54 IST" finished-at="2021-03-21T23:21:30 IST">
-      <class name="one.globalenglish.testCases.TC_Accent_003">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Accent_003@1794d431]" name="setup" is-config="true" duration-ms="4639" started-at="2021-03-21T23:18:54 IST" finished-at="2021-03-21T23:18:59 IST">
+    <test name="Test" duration-ms="313594" started-at="2021-06-06T21:15:11 IST" finished-at="2021-06-06T21:20:25 IST">
+      <class name="one.globalenglish.testCases.TC_Home_011">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Home_011@3c0ecd4b]" name="setup" is-config="true" duration-ms="2839" started-at="2021-06-06T21:20:07 IST" finished-at="2021-06-06T21:20:10 IST">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="accent()[pri:0, instance:one.globalenglish.testCases.TC_Accent_003@1794d431]" name="accent" duration-ms="20572" started-at="2021-03-21T23:18:59 IST" finished-at="2021-03-21T23:19:19 IST">
+        <test-method status="PASS" signature="HomeLinks()[pri:0, instance:one.globalenglish.testCases.TC_Home_011@3c0ecd4b]" name="HomeLinks" duration-ms="13717" started-at="2021-06-06T21:20:10 IST" finished-at="2021-06-06T21:20:24 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- accent -->
-        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Accent_003@1794d431]" name="close" is-config="true" duration-ms="745" started-at="2021-03-21T23:19:19 IST" finished-at="2021-03-21T23:19:20 IST">
+        </test-method> <!-- HomeLinks -->
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Home_011@3c0ecd4b]" name="close" is-config="true" duration-ms="886" started-at="2021-06-06T21:20:24 IST" finished-at="2021-06-06T21:20:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- one.globalenglish.testCases.TC_Accent_003 -->
-      <class name="one.globalenglish.testCases.TC_GCTutorial_012">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@5442a311]" name="setup" is-config="true" duration-ms="2896" started-at="2021-03-21T23:20:49 IST" finished-at="2021-03-21T23:20:52 IST">
+      </class> <!-- one.globalenglish.testCases.TC_Home_011 -->
+      <class name="one.globalenglish.testCases.TC_Progress_009">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Progress_009@598067a5]" name="setup" is-config="true" duration-ms="2895" started-at="2021-06-06T21:19:47 IST" finished-at="2021-06-06T21:19:50 IST">
           <params>
             <param index="0">
               <value>
@@ -39,21 +39,42 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="GCTutorial()[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@5442a311]" name="GCTutorial" duration-ms="32709" started-at="2021-03-21T23:20:52 IST" finished-at="2021-03-21T23:21:25 IST">
+        <test-method status="PASS" signature="OpenProgresslinks()[pri:0, instance:one.globalenglish.testCases.TC_Progress_009@598067a5]" name="OpenProgresslinks" duration-ms="15994" started-at="2021-06-06T21:19:50 IST" finished-at="2021-06-06T21:20:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenProgresslinks -->
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Progress_009@598067a5]" name="close" is-config="true" duration-ms="864" started-at="2021-06-06T21:20:06 IST" finished-at="2021-06-06T21:20:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- one.globalenglish.testCases.TC_Progress_009 -->
+      <class name="one.globalenglish.testCases.TC_GCTutorial_012">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@3abbfa04]" name="setup" is-config="true" duration-ms="2914" started-at="2021-06-06T21:18:10 IST" finished-at="2021-06-06T21:18:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GCTutorial()[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@3abbfa04]" name="GCTutorial" duration-ms="30777" started-at="2021-06-06T21:18:13 IST" finished-at="2021-06-06T21:18:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GCTutorial -->
-        <test-method status="PASS" signature="GCTutorial1()[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@5442a311]" name="GCTutorial1" duration-ms="4199" started-at="2021-03-21T23:21:25 IST" finished-at="2021-03-21T23:21:29 IST">
+        <test-method status="PASS" signature="GCTutorial1()[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@3abbfa04]" name="GCTutorial1" duration-ms="3454" started-at="2021-06-06T21:18:44 IST" finished-at="2021-06-06T21:18:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GCTutorial1 -->
-        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@5442a311]" name="close" is-config="true" duration-ms="838" started-at="2021-03-21T23:21:29 IST" finished-at="2021-03-21T23:21:30 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_GCTutorial_012@3abbfa04]" name="close" is-config="true" duration-ms="918" started-at="2021-06-06T21:18:48 IST" finished-at="2021-06-06T21:18:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- one.globalenglish.testCases.TC_GCTutorial_012 -->
-      <class name="one.globalenglish.testCases.TC_EmailTemplate_005">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_EmailTemplate_005@57baeedf]" name="setup" is-config="true" duration-ms="3138" started-at="2021-03-21T23:19:52 IST" finished-at="2021-03-21T23:19:55 IST">
+      <class name="one.globalenglish.testCases.TC_Accent_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Accent_003@464bee09]" name="setup" is-config="true" duration-ms="3060" started-at="2021-06-06T21:16:42 IST" finished-at="2021-06-06T21:16:45 IST">
           <params>
             <param index="0">
               <value>
@@ -64,17 +85,38 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="EmailTempValidation()[pri:0, instance:one.globalenglish.testCases.TC_EmailTemplate_005@57baeedf]" name="EmailTempValidation" duration-ms="16785" started-at="2021-03-21T23:19:55 IST" finished-at="2021-03-21T23:20:12 IST">
+        <test-method status="PASS" signature="accent()[pri:0, instance:one.globalenglish.testCases.TC_Accent_003@464bee09]" name="accent" duration-ms="17402" started-at="2021-06-06T21:16:45 IST" finished-at="2021-06-06T21:17:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accent -->
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Accent_003@464bee09]" name="close" is-config="true" duration-ms="862" started-at="2021-06-06T21:17:03 IST" finished-at="2021-06-06T21:17:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- one.globalenglish.testCases.TC_Accent_003 -->
+      <class name="one.globalenglish.testCases.TC_EmailTemplate_005">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_EmailTemplate_005@13deb50e]" name="setup" is-config="true" duration-ms="3279" started-at="2021-06-06T21:17:34 IST" finished-at="2021-06-06T21:17:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="EmailTempValidation()[pri:0, instance:one.globalenglish.testCases.TC_EmailTemplate_005@13deb50e]" name="EmailTempValidation" duration-ms="12949" started-at="2021-06-06T21:17:37 IST" finished-at="2021-06-06T21:17:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmailTempValidation -->
-        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_EmailTemplate_005@57baeedf]" name="close" is-config="true" duration-ms="804" started-at="2021-03-21T23:20:12 IST" finished-at="2021-03-21T23:20:13 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_EmailTemplate_005@13deb50e]" name="close" is-config="true" duration-ms="851" started-at="2021-06-06T21:17:50 IST" finished-at="2021-06-06T21:17:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- one.globalenglish.testCases.TC_EmailTemplate_005 -->
-      <class name="one.globalenglish.testCases.TC_NewsFeed_006">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_NewsFeed_006@343f4d3d]" name="setup" is-config="true" duration-ms="2897" started-at="2021-03-21T23:20:13 IST" finished-at="2021-03-21T23:20:16 IST">
+      <class name="one.globalenglish.testCases.TC_Stress_008">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Stress_008@31ef45e3]" name="setup" is-config="true" duration-ms="4564" started-at="2021-06-06T21:19:09 IST" finished-at="2021-06-06T21:19:14 IST">
           <params>
             <param index="0">
               <value>
@@ -85,17 +127,38 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="NewsFeedValidation1()[pri:0, instance:one.globalenglish.testCases.TC_NewsFeed_006@343f4d3d]" name="NewsFeedValidation1" duration-ms="15488" started-at="2021-03-21T23:20:16 IST" finished-at="2021-03-21T23:20:31 IST">
+        <test-method status="PASS" signature="response()[pri:0, instance:one.globalenglish.testCases.TC_Stress_008@31ef45e3]" name="response" duration-ms="32779" started-at="2021-06-06T21:19:14 IST" finished-at="2021-06-06T21:19:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- response -->
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Stress_008@31ef45e3]" name="close" is-config="true" duration-ms="853" started-at="2021-06-06T21:19:47 IST" finished-at="2021-06-06T21:19:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- one.globalenglish.testCases.TC_Stress_008 -->
+      <class name="one.globalenglish.testCases.TC_NewsFeed_006">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_NewsFeed_006@239963d8]" name="setup" is-config="true" duration-ms="3283" started-at="2021-06-06T21:17:51 IST" finished-at="2021-06-06T21:17:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="NewsFeedValidation1()[pri:0, instance:one.globalenglish.testCases.TC_NewsFeed_006@239963d8]" name="NewsFeedValidation1" duration-ms="15198" started-at="2021-06-06T21:17:54 IST" finished-at="2021-06-06T21:18:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NewsFeedValidation1 -->
-        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_NewsFeed_006@343f4d3d]" name="close" is-config="true" duration-ms="779" started-at="2021-03-21T23:20:31 IST" finished-at="2021-03-21T23:20:32 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_NewsFeed_006@239963d8]" name="close" is-config="true" duration-ms="874" started-at="2021-06-06T21:18:10 IST" finished-at="2021-06-06T21:18:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- one.globalenglish.testCases.TC_NewsFeed_006 -->
-      <class name="one.globalenglish.testCases.TC_Culture_004">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Culture_004@42e26948]" name="setup" is-config="true" duration-ms="2878" started-at="2021-03-21T23:19:20 IST" finished-at="2021-03-21T23:19:23 IST">
+      <class name="one.globalenglish.testCases.TC_Profile_007">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Profile_007@57fffcd7]" name="setup" is-config="true" duration-ms="2885" started-at="2021-06-06T21:18:49 IST" finished-at="2021-06-06T21:18:51 IST">
           <params>
             <param index="0">
               <value>
@@ -106,17 +169,38 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Cultures()[pri:0, instance:one.globalenglish.testCases.TC_Culture_004@42e26948]" name="Cultures" duration-ms="28527" started-at="2021-03-21T23:19:23 IST" finished-at="2021-03-21T23:19:51 IST">
+        <test-method status="PASS" signature="ProfileValidation()[pri:0, instance:one.globalenglish.testCases.TC_Profile_007@57fffcd7]" name="ProfileValidation" duration-ms="17023" started-at="2021-06-06T21:18:51 IST" finished-at="2021-06-06T21:19:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProfileValidation -->
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Profile_007@57fffcd7]" name="close" is-config="true" duration-ms="830" started-at="2021-06-06T21:19:08 IST" finished-at="2021-06-06T21:19:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- one.globalenglish.testCases.TC_Profile_007 -->
+      <class name="one.globalenglish.testCases.TC_Culture_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_Culture_004@f6c48ac]" name="setup" is-config="true" duration-ms="3048" started-at="2021-06-06T21:17:04 IST" finished-at="2021-06-06T21:17:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Cultures()[pri:0, instance:one.globalenglish.testCases.TC_Culture_004@f6c48ac]" name="Cultures" duration-ms="26557" started-at="2021-06-06T21:17:07 IST" finished-at="2021-06-06T21:17:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Cultures -->
-        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Culture_004@42e26948]" name="close" is-config="true" duration-ms="763" started-at="2021-03-21T23:19:51 IST" finished-at="2021-03-21T23:19:52 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_Culture_004@f6c48ac]" name="close" is-config="true" duration-ms="876" started-at="2021-06-06T21:17:33 IST" finished-at="2021-06-06T21:17:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- one.globalenglish.testCases.TC_Culture_004 -->
-      <class name="one.globalenglish.testCases.TC_SystemCheck_010">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_SystemCheck_010@53b32d7]" name="setup" is-config="true" duration-ms="2799" started-at="2021-03-21T23:20:32 IST" finished-at="2021-03-21T23:20:35 IST">
+      <class name="one.globalenglish.testCases.TC_LoginTestDDT_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_LoginTestDDT_002@6eebc39e]" name="setup" is-config="true" duration-ms="4676" started-at="2021-06-06T21:15:11 IST" finished-at="2021-06-06T21:15:16 IST">
           <params>
             <param index="0">
               <value>
@@ -127,15 +211,75 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="SystemCheckValidation()[pri:0, instance:one.globalenglish.testCases.TC_SystemCheck_010@53b32d7]" name="SystemCheckValidation" duration-ms="13343" started-at="2021-03-21T23:20:35 IST" finished-at="2021-03-21T23:20:48 IST">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_LoginTestDDT_002@6eebc39e]" name="login" duration-ms="24178" started-at="2021-06-06T21:15:17 IST" data-provider="LoginData" finished-at="2021-06-06T21:15:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arun.joseph@learnship.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Airtel@123]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SystemCheckValidation -->
-        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_SystemCheck_010@53b32d7]" name="close" is-config="true" duration-ms="853" started-at="2021-03-21T23:20:48 IST" finished-at="2021-03-21T23:20:49 IST">
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_LoginTestDDT_002@6eebc39e]" name="login" duration-ms="21276" started-at="2021-06-06T21:15:41 IST" data-provider="LoginData" finished-at="2021-06-06T21:16:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arun.joseph@learnship.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Airtel@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_LoginTestDDT_002@6eebc39e]" name="login" duration-ms="20252" started-at="2021-06-06T21:16:03 IST" data-provider="LoginData" finished-at="2021-06-06T21:16:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arun.joseph@learnship.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Airtel@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:one.globalenglish.testCases.TC_LoginTestDDT_002@6eebc39e]" name="login" duration-ms="18495" started-at="2021-06-06T21:16:23 IST" data-provider="LoginData" finished-at="2021-06-06T21:16:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arun.joseph@learnship.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Airtel@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:one.globalenglish.testCases.TC_LoginTestDDT_002@6eebc39e]" name="close" is-config="true" duration-ms="874" started-at="2021-06-06T21:16:41 IST" finished-at="2021-06-06T21:16:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- one.globalenglish.testCases.TC_SystemCheck_010 -->
+      </class> <!-- one.globalenglish.testCases.TC_LoginTestDDT_002 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

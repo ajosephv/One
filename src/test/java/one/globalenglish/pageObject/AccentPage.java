@@ -24,6 +24,7 @@ public class AccentPage extends BaseClass {
 
 	@FindBy(id="region-select-list")
 	@CacheLookup
+
 	WebElement Region;
 	
 	@FindBy(id="country-select-list")
@@ -39,7 +40,7 @@ public class AccentPage extends BaseClass {
 	WebElement accentTitle;
 	
 	
-	public void region()
+	public  void region()
 	{
 		try {
 		Select getregin=new Select(Region);
@@ -51,6 +52,7 @@ public class AccentPage extends BaseClass {
 		
 	}
 	
+	//country field
 	public void country()
 	{
 		Select getcountry=new Select(Country);
